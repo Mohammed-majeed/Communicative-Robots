@@ -1,0 +1,177 @@
+object,label
+Bathtub,Bathrooms
+BathtubBasin,Bathrooms
+Cabinet,Bathrooms
+Bathrooms,Bathrooms
+Candle,Bathrooms
+Cloth,Bathrooms
+DishSponge,Bathrooms
+CounterTop,Bathrooms
+Drawer,Bathrooms
+Dresser,Bathrooms
+Faucet,Bathrooms
+Floor,Bathrooms
+Footstool,Bathrooms
+GarbageCan,Bathrooms
+HandTowel,Bathrooms
+HandTowelHolder,Bathrooms
+HousePlant,Bathrooms
+LightSwitch,Bathrooms
+Mirror,Bathrooms
+Painting,Bathrooms
+PaperTowelRoll,Bathrooms
+Plunger,Bathrooms
+ScrubBrush,Bathrooms
+Shelf,Bathrooms
+ShowerCurtain,Bathrooms
+ShowerDoor,Bathrooms
+ShowerGlass,Bathrooms
+ShowerHead,Bathrooms
+Sink,Bathrooms
+SinkBasin,Bathrooms
+SoapBar,Bathrooms
+SprayBottle,Bathrooms
+Toilet,Bathrooms
+ToiletPaper,Bathrooms
+ToiletPaperHanger,Bathrooms
+Towel,Bathrooms
+TowelHolder,Bathrooms
+ArmChair,Living Rooms
+BasketBall,Living Rooms
+Boots,Living Rooms
+Box,Living Rooms
+CD,Living Rooms
+Chair,Living Rooms
+CoffeeTable,Living Rooms
+Curtains,Living Rooms
+Desk,Living Rooms
+DeskLamp,Living Rooms
+DogBed,Living Rooms
+Drawer,Living Rooms
+Dresser,Living Rooms
+FloorLamp,Living Rooms
+HousePlant,Living Rooms
+KeyChain,Living Rooms
+Laptop,Living Rooms
+Mirror,Living Rooms
+Newspaper,Living Rooms
+Ottoman,Living Rooms
+Painting,Living Rooms
+PaperTowelRoll,Living Rooms
+Pen,Living Rooms
+Pencil,Living Rooms
+PepperShaker,Living Rooms
+Plate,Living Rooms
+RemoteControl,Living Rooms
+RoomDecor,Living Rooms
+Shelf,Living Rooms
+ShelvingUnit,Living Rooms
+Sofa,Living Rooms
+SprayBottle,Living Rooms
+Statue,Living Rooms
+Stool,Living Rooms
+TableTopDecor,Living Rooms
+Television,Living Rooms
+TissueBox,Living Rooms
+TVStand,Living Rooms
+VacuumCleaner,Living Rooms
+Vase,Living Rooms
+Watch,Living Rooms
+Window,Living Rooms
+AluminumFoil,Kitchens
+Apple,Kitchens
+Slice,Kitchens
+Dresser,Kitchens
+BaseballBat,Kitchens
+BasketBall,Kitchens
+BathtubBasin,Kitchens
+Blinds,Kitchens
+Book,Kitchens
+Bottle,Kitchens
+ButterKnife,Kitchens
+Cabinet,Kitchens
+CD,Kitchens
+CellPhone,Kitchens
+Chair,Kitchens
+CoffeeMachine,Kitchens
+CoffeeTable,Kitchens
+CounterTop,Kitchens
+Drawer,Kitchens
+Faucet,Kitchens
+Floor,Kitchens
+Fork,Kitchens
+Fridge,Kitchens
+GarbageBag,Kitchens
+GarbageCan,Kitchens
+Kettle,Kitchens
+Knife,Kitchens
+Ladle,Kitchens
+Microwave,Kitchens
+Mirror,Kitchens
+Mug,Kitchens
+Newspaper,Kitchens
+Painting,Kitchens
+Pan,Kitchens
+PaperTowelRoll,Kitchens
+Pen,Kitchens
+Pencil,Kitchens
+PepperShaker,Kitchens
+Pot,Kitchens
+Potato,Kitchens
+RemoteControl,Kitchens
+SaltShaker,Kitchens
+ScrubBrush,Kitchens
+Shelf,Kitchens
+Sink,Kitchens
+SinkBasin,Kitchens
+SoapBottle,Kitchens
+Sofa,Kitchens
+Spatula,Kitchens
+Spoon,Kitchens
+SprayBottle,Kitchens
+StoveBurner,Kitchens
+StoveKnob,Kitchens
+TableTopDecor,Kitchens
+Tomato,Kitchens
+WineBottle,Kitchens
+AlarmClock,Bedrooms
+Dresser,Bedrooms
+BaseballBat,Bedrooms
+BasketBall,Bedrooms
+Bed,Bedrooms
+Blinds,Bedrooms
+Book,Bedrooms
+Box,Bedrooms
+Candle,Bedrooms
+CD,Bedrooms
+Chair,Bedrooms
+Cloth,Bedrooms
+CoffeeTable,Bedrooms
+CounterTop,Bedrooms
+Drawer,Bedrooms
+Dresser,Bedrooms
+Dumbbell,Bedrooms
+Floor,Bedrooms
+Footstool,Bedrooms
+GarbageCan,Bedrooms
+Laptop,Bedrooms
+LaundryHamper,Bedrooms
+Mirror,Bedrooms
+Mug,Bedrooms
+Newspaper,Bedrooms
+Ottoman,Bedrooms
+Pan,Bedrooms
+Plate,Bedrooms
+Poster,Bedrooms
+RemoteControl,Bedrooms
+RoomDecor,Bedrooms
+Safe,Bedrooms
+Sofa,Bedrooms
+Stool,Bedrooms
+TableTopDecor,Bedrooms
+TeddyBear,Bedrooms
+Television,Bedrooms
+TennisRacket,Bedrooms
+TissueBox,Bedrooms
+VacuumCleaner,Bedrooms
+Watch,Bedrooms
