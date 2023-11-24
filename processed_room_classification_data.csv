@@ -1,0 +1,444 @@
+text,labels
+air conditioner sofa bed curtains refrigerator,0
+bed air conditioner double bed rice cooker,0
+armchair wardrobe blanket loofah,0
+bedsheet armchair twin bed aspirin,0
+bedside table nightstand picture television,0
+blanket cot cot pepper mill,0
+bookshelf fan air conditioner urinal,0
+bunk bed duvet clothes valet percolator,0
+carpet clothes valet pillow curling iron,0
+chair writing desk single bed soap dish,0
+clothes valet twin bed bedsheet oven mitt,0
+cot bedsheet stool bun warmer,0
+curtains picture fan toothbrush,0
+double bed mirror bed bidet,0
+duvet ironing board hanger cotton balls,0
+duvet cover tea table night lamp curlers,0
+fan stool wall clock nesting stools,0
+hanger carpet duvet brush,0
+hat stand utility drawers bookshelf wall art,0
+ironing board television armchair yogurt maker,0
+mirror wallpaper mirror sink,0
+night lamp double bed rug sofa,0
+nightstand table duvet cover juicer,0
+picture bunk bed shutters stool,0
+pillow blanket bunk bed apron,0
+rug night lamp ironing board soap,0
+shutters slippers nightstand chair,0
+single bed duvet cover carpet ice bucket,0
+slippers bedside table hat stand curtains,0
+sofa bed pillow writing desk tea table,0
+stool rug bedside table spatula,0
+table bed wardrobe shears,0
+table clock curtains utility drawers ice cream maker,0
+tea table shutters table clock garbage can,0
+television single bed chair wallpaper,0
+twin bed wall clock television tablecloth,0
+utility drawers table clock wallpaper iron skillet,0
+wall clock hanger sofa bed broom,0
+wallpaper chair slippers dental floss,0
+wardrobe bookshelf table wall mirror,0
+writing desk hat stand tea table soap dispenser,0
+grandfather clock end of bed bench grandfather clock duvet,1
+television poufs clock skewers,1
+speaker bookcase ottoman q-tips,1
+carpet coat rack coffee table toilet,1
+remote television folding screen pizza wheel,1
+floor lamp wall shelves end table garbage bag,1
+blinds wing chair wall shelves writing desk,1
+tv stand table lamps curtains chaise lounge,1
+tv end table telephone cooker,1
+fan fan carpet can,1
+end table curtains floor lamp cupboard,1
+curtains cushion wall mounted shelving system utility drawers,1
+sofa tv stand floor vase wardrobe,1
+cushion fireplace entertainment center sauce boat,1
+picture grandfather clock bookshelf sofa,1
+telephone indoor plants throw pillows flatware,1
+vase wall mounted shelves cushion plate,1
+fireplace tea set media storage armchair,1
+tea set bar cart accent tables tray,1
+table room size mirror curtains single bed,1
+wing chair display cabinet room size mirror mold,1
+sofa tv fireplace cookbook,1
+couch wall sconces credenza medicine,1
+floor vase remote nesting stools fruit bowl,1
+media console table end of bed bench fireplace,1
+wall art throw pillows side table medicine cabinet,1
+floor cushions throw blankets sofa tea cup,1
+floor to ceiling bookcase credenza tv ointment,1
+bookcase floor to ceiling curtains window seat table lamps,1
+wall-mounted wine rack bookshelf picture frames napkin,1
+coat rack picture frames shelving unit garlic press,1
+rug media storage wall mirror nail clippers,1
+wall mirror wall mounted speakers tv stand cast iron pan,1
+coffee table picture fan indoor plants,1
+media storage wall-mounted wine rack blinds powder,1
+picture frames wall art wall art slicer,1
+throw blankets folding screen display cabinet mirror,1
+bean bag chair clock indoor plants shower stall,1
+nesting stools floor cushions rug eyedropper,1
+accent chair room divider bookcase mouthwash,1
+bar cart window seat sofa baking dish,1
+wall sconces shelving unit wall mounted tv couch,1
+accent tables desk lamp chaise lounge floor to ceiling curtains,1
+bookshelf rug floor to ceiling curtains custard cup,1
+display cabinet floor to ceiling bookcase curtains remote,1
+plant stand sofa decorative vases bread basket,1
+shelving unit speaker blinds pillow,1
+wall mounted shelves bean bag chair picture poufs,1
+wall mounted speakers blinds poufs shelves,1
+folding screen armchair speaker vegetable bin,1
+nesting tables wall mirror end table pot,1
+throw pillows telephone wall mounted shelves china,1
+magazine rack entertainment center bean bag chair sugar sifter,1
+side table console cabinet couch tea infuser,1
+table lamps side table plant stand waste basket,1
+wall-mounted floating desk ottoman wall-mounted wine rack egg beater,1
+decorative vases wall mounted tv wall mounted speakers twin bed,1
+end of bed bench console table floating shelves tv stand,1
+ottoman wall-mounted floating desk wing chair bottle opener,1
+room size mirror curtains tea set table,1
+desk lamp curtains accent chair salad bowl,1
+floor to ceiling curtains plant stand wall-mounted floating desk toothpaste,1
+curtains end table floor to ceiling bookcase medications,1
+wall shelves magazine rack table lamps dough,1
+armchair accent tables floor cushions vegetable brush,1
+credenza chaise lounge throw blankets wc,1
+poufs floating shelves wall sconces ironing board,1
+chaise lounge nesting tables remote cushion,1
+console table vase table quiche pan,1
+wall mounted tv media console media console saucer,1
+end table coffee table television desk lamp,1
+indoor plants nesting stools desk lamp nail polish,1
+window seat floor lamp room divider caddy,1
+curtains blinds armchair room divider,1
+blinds couch vase media storage,1
+floating shelves wall mounted shelving system magazine rack egg timer,1
+room divider accent chair console cabinet shelving unit,1
+clock sofa console table fryer,1
+console cabinet carpet bar cart reamer,1
+entertainment center decorative vases nesting tables laundry hamper,1
+wall mounted shelving system floor vase coat rack trash can,1
+antiseptic eau de cologne shavers roaster,2
+aspirin faucet powder glasses,2
+atomizer bandages nail file roasting pan,2
+bandages whirlpool q-tips tea set,2
+basin face cloth shaving cream razor blade,2
+bath dry medicine floss,2
+bath mat garbage can medications freezer,2
+bath towel bath mat cologne flour sifter,2
+bathrobe medicine swabs counter,2
+bathtub rug comb cleaning,2
+bidet bathtub scales kettle,2
+brush perfume bubbles jug,2
+bubble bath sponges toothpaste butter dish,2
+bubbles toilet hamper shower curtain,2
+cleaning water medicine cabinet tablespoon,2
+cologne wash basin restroom duvet cover,2
+comb nail polish mouthwash dish,2
+conditioner washroom emery board cookie sheet,2
+cotton balls moisturizer urinal carpet,2
+curlers trash can water closet tumbler,2
+curling iron curlers shower stall paper towel,2
+dental floss shower stall eau de cologne whirlpool,2
+disinfectant swabs soap dispenser meat tenderizer,2
+droppers towel rack shower mirror,2
+dry soap dish basin nesting tables,2
+eau de cologne razor blade garbage can swabs,2
+emery board tweezers plumbing coffee table,2
+eyedropper lavatory lotion platter,2
+face cloth wash bubble bath perfume,2
+faucet towel flush picture,2
+floss ointment razor dry,2
+flush bidet plunger ramekin,2
+garbage can nail clippers bath mat mixing bowl,2
+hair dryer shower curtain water credenza,2
+hairbrush sink towel rack water,2
+hamper medications aspirin carpet,2
+hand towel cleaning make-up jar,2
+laundry hamper tissues mirror coffee maker,2
+lavatory shavers perfume droppers,2
+loofah curling iron tissues ice box,2
+lotion emery board wipes pressure cooker,2
+make-up basin wash basin lotion,2
+medications toothbrush laundry hamper emery board,2
+medicine scales trash can food,2
+medicine cabinet urinal cotton balls floor to ceiling bookcase,2
+mirror wastebasket brush cologne,2
+moisturizer bath eyedropper water closet,2
+mouthwash mouthwash whirlpool grinder,2
+nail clippers disinfectant talcum powder nesting bowls,2
+nail file comb nail clippers plastic wrap,2
+nail polish dental floss moisturizer fan,2
+nail scissors bath towel floss fondue set,2
+ointment flush hairbrush shaving cream,2
+paper towel talcum powder bathrobe bedsheet,2
+perfume q-tips nail polish cake pancake stand,2
+plumbing brush bidet grandfather clock,2
+plunger hand towel bath curtains,2
+powder plumbing hand towel bottle,2
+q-tips toilet seat ointment razor,2
+razor soap towel whisk broom,2
+razor blade bubble bath toothbrush cleanser,2
+restroom floss wash potato masher,2
+rug shower dental floss shutters,2
+scales toilet paper toilet seat wall mounted speakers,2
+scissors shaving cream curlers food processor,2
+shampoo cologne atomizer wall clock,2
+shave powder sink island,2
+shavers paper towel curling iron aluminum foil,2
+shaving cream mirror nail scissors range,2
+shower shampoo toilet pan,2
+shower curtain conditioner face cloth room size mirror,2
+shower stall water closet washroom folding screen,2
+sink toothpaste soap dish serving pieces,2
+soap wipes scissors nut pick,2
+soap dish lotion bathtub clock,2
+soap dispenser eyedropper dry bar cart,2
+sponges hamper antiseptic steel wool,2
+swabs antiseptic bath towel silverware,2
+talcum powder shave droppers talcum powder,2
+tissues medicine cabinet tub soap,2
+toilet wc bandages toaster,2
+toilet paper atomizer toilet paper eau de cologne,2
+toilet seat loofah wc teapot,2
+toothbrush tub disinfectant sink,2
+toothpaste make-up sponges wall sconces,2
+towel scissors faucet garbage compactor,2
+towel rack hairbrush tweezers throw pillows,2
+trash can nail file paper towel ice cube tray,2
+tub soap dispenser shower curtain towel,2
+tweezers laundry hamper rug table,2
+urinal nail scissors razor blade scissors,2
+wash razor hair dryer pepper grinder,2
+wash basin aspirin soap hand towel,2
+washroom plunger shave blanket,2
+wastebasket cotton balls lavatory pitcher,2
+water hair dryer wastebasket beater,2
+water closet restroom cleaning wall mounted shelves,2
+wc bubbles shampoo conditioner,2
+whirlpool droppers conditioner disinfectant,2
+wipes bathrobe loofah leftovers,2
+aluminum foil pan apron mop,3
+apron spoon cabinet casserole,3
+baking dish leftovers trivet hanger,3
+basket baking dish sauce pan trash can,3
+batter pizza cutter meat tenderizer bedside table,3
+beater ladle platter floor lamp,3
+blender tureen skewers spice jars,3
+boil cooker broom rug,3
+bottle carafe dish end table,3
+bottle opener mop steak knife zester,3
+bowl shelves whisk broom nail file,3
+bread basket boil tumbler bean bag chair,3
+broiler garbage compactor slow cooker toilet seat,3
+broom hot plate egg beater hat stand,3
+bun warmer table sauce boat griddle,3
+bundt pan thermometer grinder restroom,3
+butter dish corn pick salt shaker table,3
+cabinet tumbler kettle fan,3
+caddy dish rack can opener pot holder,3
+cake pancake stand basket can bunk bed,3
+can bottle opener cast iron pan decorative vases,3
+can opener pepper shaker cook shower,3
+carafe plastic bags cup dishwasher,3
+casserole jug glasses cook,3
+cast iron pan mixing bowl saucer wall mounted tv,3
+china pot holder aluminum foil bathtub,3
+chop platter tureen placemat,3
+chopsticks custard cup garbage bag chopsticks,3
+cleanser skillet waxed paper wall-mounted floating desk,3
+coffee grinder recipe basket pizza pan,3
+coffee maker opener hot plate honey pot,3
+coffee mill tin timer plumbing,3
+colander shears pressure cooker frying pan,3
+cook kitchen island pestle armchair,3
+cookbook knife broiler end of bed bench,3
+cooker percolator kitchen pestle,3
+cookie cutter flour sifter mixer shave,3
+cookie sheet cookie sheet cookie sheet curtains,3
+corn pick garbage bag cutting board waxed paper,3
+counter meat tenderizer ice cream scoop basket,3
+creamer napkin ice box juice glass,3
+crock-pot nesting bowls batter wing chair,3
+cup sifter quiche pan wall mounted shelving system,3
+cupboard bundt pan thermometer night lamp,3
+custard cup frying pan waffle iron wipes,3
+cutlery grill meat thermometer slippers,3
+cutting board garlic press cake pancake stand speaker,3
+decanter garbage can potato masher bundt pan,3
+dish saucer zester wall shelves,3
+dish rack bread basket cookbook kitchen,3
+dish soap tablecloth plate coffee grinder,3
+dish towel nut pick salad spinner bandages,3
+dishwasher grinder soap media console,3
+dough vegetable bin mold bath,3
+dutch oven whisk ice cream maker ottoman,3
+egg beater pressure cooker muffin pan sponges,3
+egg timer roasting pan whisk garbage disposal,3
+espresso machine jar dishwasher creamer,3
+flatware bun warmer custard cup dish towel,3
+flour sifter ice bucket butter dish bed,3
+fondue set island honey dipper hair dryer,3
+food meat grinder garlic press cot,3
+food processor garbage disposal marinate end table,3
+fork mortar and pestle kitchen island hot plate,3
+freezer pitcher tongs sieve,3
+fruit bowl pizza pan dough ladle,3
+fryer teaspoon coffee maker blender,3
+frying pan reamer pitcher slow cooker,3
+garbage bag trivet pepper grinder salad spinner,3
+garbage can paper towel frying pan floating shelves,3
+garbage compactor rolling pin crock-pot shampoo,3
+garbage disposal measuring spoons cupboard teaspoon,3
+garlic press pestle fryer pie plate,3
+glasses trash bag measuring spoons toaster oven,3
+grater pizza wheel tablespoon carafe,3
+gravy boat pie plate pepper shaker toilet paper,3
+griddle slow cooker cooker antiseptic,3
+grill toaster garbage compactor cutting board,3
+grinder masher utensils ice cream scoop,3
+honey dipper steak knife creamer floor vase,3
+honey pot kettle spoon timer,3
+hot plate slicer spices bookshelf,3
+ice box bowl freezer skillet,3
+ice bucket oven mitt iron skillet serving platter,3
+ice cream maker dough bottle kitchen island,3
+ice cream scoop sauce boat pot holder lavatory,3
+ice cube tray stew pot garbage can table clock,3
+ice pick sink fondue set console table,3
+iron skillet broom jar rug,3
+island potato masher jug blinds,3
+jar egg beater grill can opener,3
+jug broiler gravy boat picture,3
+juice glass tongs stew pot bubbles,3
+juicer spice jars flour sifter bath mat,3
+kettle cutlery toaster dish soap,3
+kitchen fork teaspoon mortar and pestle,3
+kitchen island pepper grinder dutch oven muffin pan,3
+knife lid griddle paper towel,3
+knife sharpener nut cracker boil knife sharpener,3
+ladle fryer fruit bowl hairbrush,3
+leftovers fruit bowl nesting bowls face cloth,3
+lid salt shaker sink washroom,3
+marinate caddy napkin television,3
+masher plate nut cracker garbage can,3
+measuring cup apron fork coffee mill,3
+measuring spoons pot slicer broiler,3
+meat grinder grater counter mixer,3
+meat tenderizer juicer lid nut cracker,3
+meat thermometer sieve ice cube tray rug,3
+microwave oven knife sharpener ice pick plastic bags,3
+mixer meat thermometer rolling pin grill,3
+mixing bowl cast iron pan roasting pan flush,3
+mold vegetable peeler table nightstand,3
+mop salad bowl ladle make-up,3
+mortar and pestle iron skillet meat grinder double bed,3
+muffin pan can opener knife sharpener marinate,3
+mug coffee grinder garbage disposal sugar bowl,3
+napkin ice cream maker pot microwave oven,3
+nesting bowls plastic wrap leftovers bookcase,3
+nut cracker sponges egg timer bookshelf,3
+nut pick measuring cup mixing bowl picture frames,3
+opener china spatula lid,3
+oven sauce pan sieve tv,3
+oven mitt rice cooker knife curtains,3
+pan blender island steamer,3
+paper towel tea cup chopsticks popcorn popper,3
+pepper grinder mug bottle opener nail scissors,3
+pepper mill flatware oven crock-pot,3
+pepper shaker crock-pot tray coat rack,3
+percolator vegetable brush steel wool espresso machine,3
+pestle dishwasher colander fork,3
+pie plate counter mortar and pestle vase,3
+pitcher steamer popcorn popper blinds,3
+pizza cutter zester tablecloth sofa bed,3
+pizza pan toaster oven salad bowl moisturizer,3
+pizza wheel spices mug steak knife,3
+placemat yogurt maker bread basket telephone,3
+plastic bags ramekin percolator bowl,3
+plastic wrap chop skillet gravy boat,3
+plate coffee mill bowl vegetable peeler,3
+platter oven measuring cup bathrobe,3
+popcorn popper whisk broom food processor console cabinet,3
+pot cook sugar sifter corn pick,3
+potato masher griddle vegetable brush tweezers,3
+pot holder gravy boat cutlery measuring spoons,3
+poultry shears casserole dish rack waffle iron,3
+pressure cooker beater bundt pan tongs,3
+quiche pan honey dipper microwave oven measuring cup,3
+ramekin ice pick teapot rolling pin,3
+range colander waste basket scales,3
+reamer muffin pan juice glass chop,3
+recipe fondue set stove pizza cutter,3
+refrigerator utensils rice cooker recipe,3
+rice cooker popcorn popper flatware opener,3
+roaster teapot steamer bubble bath,3
+roasting pan silverware baking dish wash basin,3
+rolling pin quiche pan espresso machine spices,3
+salad bowl waffle iron tea infuser sifter,3
+salad spinner trash can shears window seat,3
+salt shaker batter vegetable bin knife,3
+sauce boat serving pieces tea cup thermometer,3
+sauce pan range yogurt maker masher,3
+saucer decanter poultry shears stew pot,3
+serving pieces glasses oven mitt comb,3
+serving platter skewers opener poultry shears,3
+shears food ice bucket tissues,3
+shelves pepper mill serving pieces tin,3
+sieve whip ramekin batter,3
+sifter food processor pizza pan wash,3
+silverware cutting board pie plate trash bag,3
+sink butter dish roaster cup,3
+skewers ice cube tray spice jars pepper shaker,3
+skillet microwave oven vegetable peeler tub,3
+slicer creamer wok colander,3
+slow cooker espresso machine dish soap soup bowl,3
+soap wok bun warmer accent chair,3
+soup bowl timer juicer ice pick,3
+spatula dish towel decanter throw blankets,3
+spice jars spatula coffee mill meat grinder,3
+spices sugar sifter shelves bath towel,3
+sponges egg timer nut pick accent tables,3
+spoon salad spinner carafe utensils,3
+steak knife marinate corn pick sponges,3
+steamer tea infuser honey pot hamper,3
+steel wool bottle pizza wheel salt shaker,3
+stew pot freezer caddy decanter,3
+stove stove trash bag trivet,3
+sugar bowl steel wool pan towel rack,3
+sugar sifter refrigerator masher shavers,3
+table ice box coffee grinder whip,3
+tablecloth soup bowl sugar bowl whisk,3
+tablespoon placemat soup bowl tureen,3
+tea cup honey pot casserole display cabinet,3
+tea infuser waste basket sponges spoon,3
+teapot cupboard tin plant stand,3
+teaspoon cake pancake stand plastic bags air conditioner,3
+thermometer cleanser pizza cutter honey dipper,3
+timer tablespoon sifter sauce pan,3
+tin dish soap mop oven,3
+toaster mixer plastic wrap cutlery,3
+toaster oven cookbook pepper mill clothes valet,3
+tongs can china wall-mounted wine rack,3
+trash bag juice glass cookie cutter wastebasket,3
+trash can kitchen grater side table,3
+tray coffee maker refrigerator boil,3
+trivet cookie cutter paper towel grater,3
+tumbler soap beater cabinet,3
+tureen dutch oven cleanser atomizer,3
+utensils ice cream scoop whip entertainment center,3
+vegetable bin aluminum foil silverware plunger,3
+vegetable brush waxed paper reamer dish rack,3
+vegetable peeler cup serving platter cookie cutter,3
+waffle iron roaster placemat meat thermometer,3
+waste basket serving platter blender magazine rack,3
+waxed paper mold chop stove,3
+whip poultry shears food dutch oven,3
+whisk dish range basin,3
+whisk broom tray recipe wok,3
+wok chopsticks toaster oven faucet,3
+yogurt maker cabinet dish towel mug,3
+zester sugar bowl trash can floor cushions,3
