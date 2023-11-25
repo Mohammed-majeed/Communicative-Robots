@@ -1,0 +1,17 @@
+,Original Image,Input Text,user predicted room,predicted place,Generated Caption,robot predicted room,Cosine Similarity Score
+0,images/8.jpg,"a kitchen equipped with a refrigerator, sink, and stove",3,8_found.jpg,"a kitchen with a stove, sink, and refrigerator ",3,0.9671649
+1,images/10.jpg,"a kitchen with a counter, sink, and a window",3,10_found.jpg,"a kitchen with a stove, sink, and a refrigerator ",3,0.94512445
+2,images/20.jpg,"a kitchen with a microwave, sink, stove, and refrigerator",3,20_found.jpg,"a kitchen with a stove, microwave, refrigerator, and a table ",3,0.9625952
+3,images/27.jpg,a room with a black and white floor and a white wall,1,27_found.jpg,a room with a white wall and a black floor ,1,0.97331744
+4,images/28.jpg,a room with a black wall and a white floor,1,28_found.jpg,a room with a white wall and a black floor ,1,0.99916226
+5,images/29.jpg,"a kitchen with a sink, refrigerator, and stove",3,29_found.jpg,"a kitchen with a sink, stove, and a window ",3,0.94831866
+6,images/31.jpg,"a kitchen with a refrigerator, sink, and stove",3,31_found.jpg,"a kitchen with a stove, refrigerator, and a sink ",3,0.9831917
+7,images/32.jpg,a room with a door and a wooden floor,1,32_found.jpg,a hallway with a wooden floor and a wooden floor ,1,0.9394493
+8,images/33.jpg,a room with a window and a wall,1,33_found.jpg,a room with a door and a wall with a wooden floor ,1,0.94422644
+9,images/38.jpg,a room with a black and white floor and a white wall,1,38_found.jpg,a room with a white wall and a black and white floor ,1,0.99567056
+10,images/39.jpg,"a kitchen with a table, sink, refrigerator, and stove",3,39_found.jpg,"a kitchen with a stove, sink, and cabinets ",3,0.96537364
+11,images/40.jpg,"a kitchen with a table, sink, stove, and refrigerator",3,40_found.jpg,"a kitchen with a stove, sink, and cabinets ",3,0.9638758
+12,images/42.jpg,"a kitchen with a stove, refrigerator, and a table",3,42_found.jpg,"a kitchen with a stove, sink, and refrigerator ",3,0.9550005
+13,images/44.jpg,"a kitchen with a table, sink, stove, and refrigerator",3,44_found.jpg,"a kitchen with a sink, a refrigerator, and a table ",3,0.933731
+14,images/45.jpg,"a kitchen with a refrigerator, sink, and stove",3,45_found.jpg,"a kitchen with a sink, a refrigerator, and a table ",3,0.9454545
+15,images/49.jpg,a room with a blue door and a white wall,1,49_found.jpg,a room with a white wall and a light on ,1,0.947849
