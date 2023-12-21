@@ -23,5 +23,5 @@ The agent has several movement functions, allowing it to:
 
 ## Interaction Flow
 
-- The agent follows a decision-making process to identify objects within the environment, as illustrated in the flowchart ![AI2-THOR Interaction Flowchart](https://github.com/Mohammed-majeed/Communicative-Robots/blob/main/AI2Thor_graph.png).
 - User input is processed, and actions are performed based on similarity scores between the environment's state and the user's description.
+- The agent follows a decision-making process to identify objects within the environment, as illustrated in the flowchart ![AI2-THOR Interaction Flowchart](https://github.com/Mohammed-majeed/Communicative-Robots/blob/main/AI2Thor_graph.png).
